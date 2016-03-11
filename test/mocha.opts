@@ -1,0 +1,3 @@
+--recursive
+--compilers .:babel-register
+--check-leaks
